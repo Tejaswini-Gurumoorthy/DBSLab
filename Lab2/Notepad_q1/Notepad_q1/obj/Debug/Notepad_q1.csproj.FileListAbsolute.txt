@@ -1,0 +1,9 @@
+D:\200911202\Lab2__modified\Notepad_q1\Notepad_q1\bin\Debug\Notepad_q1.exe.config
+D:\200911202\Lab2__modified\Notepad_q1\Notepad_q1\bin\Debug\Notepad_q1.exe
+D:\200911202\Lab2__modified\Notepad_q1\Notepad_q1\bin\Debug\Notepad_q1.pdb
+D:\200911202\Lab2__modified\Notepad_q1\Notepad_q1\obj\Debug\Notepad_q1.csprojResolveAssemblyReference.cache
+D:\200911202\Lab2__modified\Notepad_q1\Notepad_q1\obj\Debug\Notepad_q1.Form1.resources
+D:\200911202\Lab2__modified\Notepad_q1\Notepad_q1\obj\Debug\Notepad_q1.Properties.Resources.resources
+D:\200911202\Lab2__modified\Notepad_q1\Notepad_q1\obj\Debug\Notepad_q1.csproj.GenerateResource.Cache
+D:\200911202\Lab2__modified\Notepad_q1\Notepad_q1\obj\Debug\Notepad_q1.exe
+D:\200911202\Lab2__modified\Notepad_q1\Notepad_q1\obj\Debug\Notepad_q1.pdb
