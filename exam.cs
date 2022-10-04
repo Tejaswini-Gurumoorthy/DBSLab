@@ -98,7 +98,7 @@ namespace WindowsFormsApplication11
             int regno = int.Parse(textBox1.Text);
             OracleCommand cm = new OracleCommand();
             cm.Connection = conn;
-            cm.CommandText = "insert into student values(textBox1.Text, textBox2.Text , textBox3.Text )";
+            cm.CommandText = "insert into student values('"+textBox1.Text+"','"+ textBox2.Text+"' ,'"+ textBox3.Text+"','"+textBox4.Text+"' )";
             cm.CommandType = CommandType.Text;
             cm.ExecuteNonQuery();
             MessageBox.Show("Inserted!");
